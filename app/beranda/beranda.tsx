@@ -58,7 +58,7 @@ export default function BerandaScreen() {
 							Halo,
 						</Text>
 						<Text style={[Fonts.header1, { color: Colors.textPrimary }]}>
-							Ahmed Fajar
+							Wira
 						</Text>
 					</View>
 					<FontAwesome6
